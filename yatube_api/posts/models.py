@@ -28,6 +28,9 @@ class Post(models.Model):
         null=True
     )
 
+    class Meta:
+        ordering = ('text',)
+
     def __str__(self):
         return self.text[0:15]
 
