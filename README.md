@@ -15,9 +15,7 @@ ___
 
 ## **Как запустить проект**
 
-**Клонировать репозиторий и перейти в него в командной строке**
-
-  - ```https://github.com/Aleksandr-Meshkov/Api_Yatube_Final```
+**Клонировать репозиторий [Api_Final_Yatube](https://github.com/Aleksandr-Meshkov/Api_Yatube_Final) и перейти в него в командной строке**
 
   - ```cd api_final_yatube```
 
