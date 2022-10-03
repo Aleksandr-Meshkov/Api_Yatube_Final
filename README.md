@@ -17,7 +17,7 @@ ___
 
 **Клонировать репозиторий и перейти в него в командной строке**
 
-  - ```git@github.com:Aleksandr-Meshkov/api_final_yatube.git```
+  - ```https://github.com/Aleksandr-Meshkov/Api_Yatube_Final```
 
   - ```cd api_final_yatube```
 
